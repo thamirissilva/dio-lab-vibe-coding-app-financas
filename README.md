@@ -127,17 +127,90 @@ A experiência será guiada por um Agente Financeiro virtual, que ajuda o usuár
 
 
 
-- Prints ou pequenos vídeos das interações com a IA;
+## Prints ou pequenos vídeos das interações com a IA;
 <img width="1920" height="1080" alt="Captura de Tela (109)" src="https://github.com/user-attachments/assets/36010138-a6ca-405c-abca-62911ee2e9ef" />
 <img width="1920" height="1080" alt="Captura de Tela (112)" src="https://github.com/user-attachments/assets/43236322-0948-4a00-a698-9db9975efc10" />
 <img width="1920" height="1080" alt="Captura de Tela (111)" src="https://github.com/user-attachments/assets/667fba96-aa06-4f5e-bb1d-8edd81d057dc" />
 <img width="1920" height="1080" alt="Captura de Tela (110)" src="https://github.com/user-attachments/assets/67cd5239-49c5-4f6a-996c-53613587dc5f" />
 
+## Meu README
+> # README – Aplicativo de Organização de Finanças Pessoais Conversacional
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;
->
+## Visão Geral
+Este projeto tem como objetivo criar um aplicativo de finanças pessoais que funcione por meio de conversas naturais.  
+A proposta é simplificar o controle financeiro, eliminando a necessidade de formulários complexos ou planilhas, e oferecendo uma experiência acessível e educativa.
 
-- Uma breve **reflexão sobre o processo**:
+## Motivação
+Muitas pessoas desistem de organizar suas finanças porque os aplicativos atuais exigem muita entrada manual e não se adaptam às necessidades individuais.  
+A solução aqui proposta busca resolver esse problema com:
+- Interação via chat em linguagem natural.
+- Recomendações automáticas de economia.
+- Relatórios simples e personalizados.
+
+## Público-Alvo
+- Pessoas iniciantes no controle financeiro.
+- Usuários que buscam praticidade e clareza.
+- Jovens adultos e profissionais que desejam uma visão básica e sem burocracia das finanças.
+
+## Funcionalidades-Chave
+- Registro de gastos via chat.
+- Classificação automática de transações.
+- Definição e acompanhamento de metas financeiras.
+- Recomendações do Agente Financeiro.
+- Relatórios visuais simples e acessíveis.
+
+## Design Universal
+A solução será construída com base em princípios de Design Universal, garantindo que o aplicativo seja inclusivo e ofereça boa experiência para o máximo de usuários possíveis.  
+Isso inclui:
+- Contraste adequado e tipografia legível.
+- Navegação intuitiva e consistente.
+- Suporte a leitores de tela e acessibilidade digital.
+- Linguagem clara e educativa, sem jargões técnicos.
+
+## MVP – Primeira Entrega
+O MVP terá três telas principais:
+1. Tela de Conversa: para registrar gastos e interagir com o Agente Financeiro.
+2. Tela de Metas: para criar e acompanhar objetivos financeiros.
+3. Tela de Relatórios: para visualizar gastos por categoria e progresso das metas.
+
+Recursos necessários:
+- Processamento de linguagem natural.
+- Motor de classificação automática.
+- Banco de dados simples.
+- Sistema de notificações.
+- Visualização de dados com gráficos básicos.
+- Implementação de acessibilidade desde o início.
+
+## Validação Inicial
+A validação será feita com um grupo pequeno (10-20 usuários iniciantes).  
+Critérios de avaliação:
+- Facilidade de registrar gastos.
+- Clareza dos relatórios.
+- Utilidade das dicas do Agente Financeiro.
+- Inclusividade da experiência para diferentes perfis de usuários.
+
+## Reflexões
+- O aplicativo deve ser mais que uma ferramenta: precisa ser um **educador financeiro acessível**.  
+- A simplicidade é o diferencial: menos burocracia, mais diálogo.  
+- O Design Universal não é apenas um requisito técnico, mas um compromisso ético de inclusão.  
+- O MVP deve focar em entregar valor rápido e validar hipóteses antes de expandir funcionalidades.  
+- O tom da comunicação deve ser amigável, educativo e próximo da realidade do usuário.
+
+## Próximos Passos
+- Criar protótipos interativos no Lovable.
+- Testar com usuários reais e coletar feedback.
+- Ajustar funcionalidades e interface com base nos testes.
+- Planejar expansão para recursos avançados (integração bancária, relatórios detalhados, inteligência preditiva).
+
+
+
+## Um resumo do que o seu **App de Finanças Pessoais** faz;
+> Este projeto tem como objetivo criar um aplicativo de finanças pessoais que funcione por meio de conversas naturais.  
+A proposta é simplificar o controle financeiro, eliminando a necessidade de formulários complexos ou planilhas, e oferecendo uma experiência acessível e educativa.
+
+
+
+## Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
     > Tudo funcionando perfeitamente.
     
@@ -147,7 +220,7 @@ A experiência será guiada por um Agente Financeiro virtual, que ajuda o usuár
   - O que aprendeu sobre conversar com IAs?
     > Fácil e auxilia muito a pensar com clareza antes de publicar um projeto, se realmente vai ser viável.
 
-> [!TIP]
+## [!TIP]
 > Link público do projeto: https://financy-bythamis.lovable.app
 
 ## 💬 Conclusão
