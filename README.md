@@ -221,7 +221,7 @@ A proposta é simplificar o controle financeiro, eliminando a necessidade de for
     > Fácil e auxilia muito a pensar com clareza antes de publicar um projeto, se realmente vai ser viável.
 
 ## [!TIP]
-> Link público do projeto: https://financy-bythamis.lovable.app
+> Link público do projeto: https://verde-financy-bythamis.lovable.app/auth
 
 ## 💬 Conclusão
 
